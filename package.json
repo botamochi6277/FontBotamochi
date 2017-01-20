@@ -1,0 +1,10 @@
+{
+  "name": "FontBotamochi",
+  "version": "0.0.1",
+  "description": "Convert SVG file to Webfont",
+  "main": "Gruntfile.js",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-webfont": "^0.4.8"
+  }
+}
