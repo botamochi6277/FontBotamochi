@@ -5,7 +5,9 @@ module.exports = function(grunt) {
     pkg: grunt.file.readJSON('package.json'),
     webfont: {
       icons: {
-        src: ['icons/1_0/*.svg', 'icons/1_1/*.svg','icons/1_2/*.svg','icons/1_3/*.svg','icons/1_4/*.svg'],
+        src: ['icons/1_0/*.svg', 'icons/1_1/*.svg',
+              'icons/1_2/*.svg','icons/1_3/*.svg',
+              'icons/1_4/*.svg','icons/1_5/*.svg'],
         dest: 'build/fonts',
         options: {
           font:'FontBotamochi',

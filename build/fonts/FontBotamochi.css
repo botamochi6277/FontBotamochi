@@ -405,7 +405,7 @@
 }
 
 
-.fb-hand-files:before {
+.fb-hand-file:before {
 	content:"\f123";
 }
 
@@ -517,4 +517,54 @@
 
 .fb-spade:before {
 	content:"\f139";
+}
+
+
+.fb-crimper:before {
+	content:"\f13a";
+}
+
+
+.fb-glue-mini:before {
+	content:"\f13b";
+}
+
+
+.fb-glue:before {
+	content:"\f13c";
+}
+
+
+.fb-hammer:before {
+	content:"\f13d";
+}
+
+
+.fb-long-nose-pliers:before {
+	content:"\f13e";
+}
+
+
+.fb-ph-screwdriver:before {
+	content:"\f13f";
+}
+
+
+.fb-screw:before {
+	content:"\f140";
+}
+
+
+.fb-slotted-screwdriver:before {
+	content:"\f141";
+}
+
+
+.fb-tweezers:before {
+	content:"\f142";
+}
+
+
+.fb-vise:before {
+	content:"\f143";
 }
