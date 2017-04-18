@@ -8,7 +8,7 @@ module.exports = function(grunt) {
         src: ['icons/1_0/*.svg', 'icons/1_1/*.svg',
               'icons/1_2/*.svg','icons/1_3/*.svg',
               'icons/1_4/*.svg','icons/1_5/*.svg',
-              'icons/1_6/*.svg'],
+              'icons/1_6/*.svg','icons/1_7/*.svg'],
         dest: 'build/fonts',
         options: {
           font:'FontBotamochi',

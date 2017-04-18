@@ -593,3 +593,73 @@
 .fb-scarf:before {
 	content:"\f148";
 }
+
+
+.fb-axes:before {
+	content:"\f149";
+}
+
+
+.fb-belt:before {
+	content:"\f14a";
+}
+
+
+.fb-carbon-resistor:before {
+	content:"\f14b";
+}
+
+
+.fb-delemic-capacitor:before {
+	content:"\f14c";
+}
+
+
+.fb-force-sensor:before {
+	content:"\f14d";
+}
+
+
+.fb-imu-sensor:before {
+	content:"\f14e";
+}
+
+
+.fb-led:before {
+	content:"\f14f";
+}
+
+
+.fb-micro-switch:before {
+	content:"\f150";
+}
+
+
+.fb-microchip:before {
+	content:"\f151";
+}
+
+
+.fb-npn-transisor:before {
+	content:"\f152";
+}
+
+
+.fb-polarized-capacitor:before {
+	content:"\f153";
+}
+
+
+.fb-potentiometer:before {
+	content:"\f154";
+}
+
+
+.fb-selemic-capacitor:before {
+	content:"\f155";
+}
+
+
+.fb-tactile-switch:before {
+	content:"\f156";
+}
