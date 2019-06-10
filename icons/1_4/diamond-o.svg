@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="256" height="256" viewBox="0, 0, 256, 256">
-  <g id="レイヤー_1">
-    <path d="M250.147,128.5 C250.147,128.5 215.329,90.079 189.329,64.365 C163.329,38.651 128.5,6.853 128.5,6.853 C128.5,6.853 93.671,38.651 67.671,64.365 C41.671,90.079 6.853,128.5 6.853,128.5 C6.853,128.5 41.671,166.921 67.671,192.635 C93.671,218.349 128.5,250.147 128.5,250.147 C128.5,250.147 163.329,218.349 189.329,192.635 C215.329,166.921 250.147,128.5 250.147,128.5 z" fill-opacity="0" stroke="#383838" stroke-width="12" stroke-linejoin="round"/>
-  </g>
-</svg>
